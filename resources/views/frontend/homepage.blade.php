@@ -223,8 +223,8 @@
                   <tr>
 
 
-                    <td style="text-align:center;padding-top:45px;">{{$v_show->student_id}}</td>
                     <td style="text-align:center;padding-top:45px;">{{$v_show->student_name}}</td>
+                    <td style="text-align:center;padding-top:45px;">{{$v_show->student_id}}</td>
 
                     <td style="text-align:center;padding-top:45px;">
 
